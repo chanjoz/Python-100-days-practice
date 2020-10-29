@@ -1,4 +1,5 @@
-from math import pi,sqrt
+from math import pi, sqrt
+
 radius = float(input("pls input radius: "))
 perimeter = 2*pi*radius
 area = radius**2*pi
