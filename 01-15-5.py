@@ -3,7 +3,7 @@ import time
 
 
 def main():
-    content = "Our Family has a new member:....Kaiyan(Beam)^_^"
+    content = "Our Family has a new member:....Kaiyan(Beam) :)"
     while True:
         os.system('clear')
         print(content)
